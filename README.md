@@ -196,3 +196,6 @@ This repository serves as the official landing page for SRT to SSA Converter. Th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SRT to SSA Converter today!**
+
+---
+**Last updated:** 2026-11-08 19:16:56 UTC

@@ -198,4 +198,4 @@ This repository serves as the official landing page for SRT to SSA Converter. Th
 **Get the most recent version of SRT to SSA Converter today!**
 
 ---
-**Last updated:** 2026-11-11 23:15:35 UTC
+**Last updated:** 2026-11-12 05:24:10 UTC
